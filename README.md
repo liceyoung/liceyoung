@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @liceyoung
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Frontend, Machine Learning, and Bio-computing 
+- 👋 Hi, I’m Thao (Alice) Duong
+- 🌱 I'm currently a 2nd-year student, majoring in Computer Science.
+-  I love develope website and application. 
 - 📫 DM me: aliceduong841@gmail.com
 
 <!---
