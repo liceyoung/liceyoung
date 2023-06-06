@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thao (Alice) Duong
 - 🌱 I'm currently a 2nd-year student, majoring in Computer Science.
--  I love develope website and application. 
+-  I am learning and developing Technology solutions which support everyone needs. 
 - 📫 DM me: aliceduong841@gmail.com
 
 <!---
