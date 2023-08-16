@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thao (Alice) Duong
-- 🌱 I'm currently a 2nd-year student, majoring in Computer Science.
+- 🌱 I'm currently rising junior student, majoring in Computer Science.
 -  I am learning and developing Technology solutions which support everyone needs. 
 - 📫 DM me: aliceduong841@gmail.com
 
