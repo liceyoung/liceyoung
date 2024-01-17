@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thao (Alice) Duong
-- 🌱 I'm currently rising junior student, majoring in Computer Science in Beloit Colleg, WI.
+- 🌱 I'm currently rising junior student, majoring in Computer Science in Beloit College, WI.
 -  I am learning and developing Technology solutions which support everyone needs. 
 - 📫 DM me: aliceduong841@gmail.com
 
