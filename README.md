@@ -30,7 +30,7 @@
 
 
 ## 📲 Let's connect!
-- [LinkedIn] (https://www.linkedin.com/in/thao-thach-duong-4051181a1/).
+- [LinkedIn](https://www.linkedin.com/in/thao-thach-duong-4051181a1/).
 
 
 
