@@ -1,6 +1,7 @@
+<img width="1300" alt="test banner_1" src ="https://github.com/liceyoung/liceyoung/blob/main/AliceD_GithubBanner.jpg"/>
 
 
-## Hi Everyone! 
+## Hi Folks! 
 
 ## 💗 : About Me
 
