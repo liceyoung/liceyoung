@@ -1,6 +1,6 @@
 
 
-## Hi Everyone! Welcome to my Github page where I learn how to become a developer who like Applied Mathematics <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+## Hi Everyone! 
 
 ## 💗 : About Me
 
