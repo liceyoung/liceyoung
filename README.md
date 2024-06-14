@@ -6,7 +6,7 @@ My name is Alice (Thao) Duong.
 
 ## 💗 🌟 : Little bit about me
 
-- My major is **Computer Science**, I am studying at Beloit College, WI! 
+- My major is **Computer Science**, I am studying at Beloit College! 
 - I am most skilled in Full Stack Web Development, DevOps, Cloud, and QA Testing.
 - I am interested in researching more about  Machine Learning, and High Performance Computing.
 - 😎 Outside the tech world, I enjoy dancing, singing, cooking, and playing sports.
